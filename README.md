@@ -4,6 +4,21 @@ Hospitals in India.
 ## Getting started
 These instructions will get you a copy of the project up and running on your local machine.
 
+### Folder Structure
+```js
+var routes = (
+  <Route name="App">
+    <Route name="Admin">
+      <Route name="Users"/>
+      <Route name="Reports"/>
+    </Route>
+    <Route name="Course">
+      <Route name="Assignments"/>
+    </Route>
+  </Route>
+);
+```
+
 ### Prerequisites
 Requires `python 3.x.x`.
 
