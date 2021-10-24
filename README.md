@@ -11,8 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 ├── RAW_DATA                                        # sourced structured raw data
 │   └── FINAL_DATA_SCRAPE.csv
 │   └── hospital_database_2.xlsx
-├── Report
-│   └── SWEETVIZ_REPORT.html                        # report
+├── Report                                          # report
+│   └── SWEETVIZ_REPORT.html                        
 │── methods_scrape.py                               # functions & methods for scraping    
 │── scraper.py                                      # script that runs the scrape    
 │── clean_data.py                                   # script for cleaning and processing
