@@ -5,19 +5,20 @@ Hospitals in India.
 These instructions will get you a copy of the project up and running on your local machine.
 
 ### Folder Structure
-```js
-var routes = (
-  <Route name="App">
-    <Route name="Admin">
-      <Route name="Users"/>
-      <Route name="Reports"/>
-    </Route>
-    <Route name="Course">
-      <Route name="Assignments"/>
-    </Route>
-  </Route>
-);
 ```
+app
+└── screens
+    └── App
+        └── screens
+            ├── Admin
+            │   └── screens
+            │       ├── Reports
+            │       └── Users
+            └── Course
+                └── screens
+                    └── Assignments
+```
+
 
 ### Prerequisites
 Requires `python 3.x.x`.
