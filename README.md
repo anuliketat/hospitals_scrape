@@ -13,7 +13,7 @@ Install the required packages from `requirements.txt` by running `pip install -r
 Make sure the Chrome driver and Chrome browser are to the latest version. 
 
 ### Running
-Clone the repository. Activate the virtual environment you created and then execute `python scraper.py`
+Clone the repository. Activate the virtual environment you created and then execute `python run.py`
 
 ## Acknowledgements
 README inspired from https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
