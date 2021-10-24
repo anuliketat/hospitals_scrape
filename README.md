@@ -4,6 +4,22 @@ Hospitals in India.
 ## Getting started
 These instructions will get you a copy of the project up and running on your local machine.
 
+### Folder Structure
+```
+app
+└── screens
+    └── App
+        └── screens
+            ├── Admin
+            │   └── screens
+            │       ├── Reports
+            │       └── Users
+            └── Course
+                └── screens
+                    └── Assignments
+```
+
+
 ### Prerequisites
 Requires `python 3.x.x`.
 
