@@ -6,18 +6,18 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Folder Structure
 ```
-├── FINAL_DATA                                      # Final cleaned data csv file
+├── FINAL_DATA                                  # Final cleaned data csv file
 │   └── FINAL_DATA_CLEAN.csv                        
-├── RAW_DATA                                        # sourced structured raw data
+├── RAW_DATA                                    # sourced structured raw data
 │   └── FINAL_DATA_SCRAPE.csv
 │   └── hospital_database_2.xlsx
-├── Report                                          # report
+├── Report                                      # report
 │   └── SWEETVIZ_REPORT.html                        
-│── methods_scrape.py                               # functions & methods for scraping    
-│── scraper.py                                      # script that runs the scrape    
-│── clean_data.py                                   # script for cleaning and processing
-│── requirements.txt                                # required packages
-└── run.py                                          # Main script that runs everything sequentially to get final data
+│── methods_scrape.py                           # functions & methods for scraping    
+│── scraper.py                                  # script that runs the scrape    
+│── clean_data.py                               # script for cleaning and processing
+│── requirements.txt                            # required packages
+└── run.py                                      # Main script that runs everything sequentially to get final data
 ```
 
 
